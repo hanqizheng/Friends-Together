@@ -41,5 +41,5 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 
 ## 目录
 
-### [Season 1]()
-- [Episode 1]()
+### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
+- [Episode 1](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode1.md)
