@@ -20,6 +20,7 @@ a ha! Hi everyone,现在正式开始《Friends》之旅~~~
 > Joey: J 
 > Ross: Ro
 
+---
 
 ```
 M: There's nothing to tell. It's just some guy I work with.
@@ -40,6 +41,8 @@ M: 没什么好说的，就是个跟我一块工作的人。
 
 在这里`just`是`仅仅,只`的意思。
 
+---
+
 ```
 J: Come on~ You're going out with that guy. 
    There gotta be something wrong with him.
@@ -50,7 +53,7 @@ J: Come on~ 这人跟你出去说明他肯定哪里有点问题。
 
     **gotta = got to**
 
-    表示`必须，一定，不得不`，大概体会一下，就是一种很肯定的预期可以用`gotta`
+    表示`必须，一定，不得不`，大概体会一下，就是一种很肯定的语气可以用`gotta`
 
     ```
     // example
@@ -63,10 +66,14 @@ J: Come on~ 这人跟你出去说明他肯定哪里有点问题。
     
     直译可能就是和某人出去，其实这个短语可以表示`和某人在交往`。
 
+---
+
 ```
 C: dnaou@3!@#saf#$%/* as5465
 ```
 这句话翻来覆去听十几遍也不知道Chandler在说什么，字幕也是错的。当然只是一句普通的`钱式幽默`罢了。
+
+---
 
 ```
 P: Wait, dose he eat chalk?
@@ -83,6 +90,7 @@ P: 等等！ 他吃粉笔吗？？
 
 `cuz`是`cause`的缩写，在美语中大家说cause一般都会变成cuz，就这个因人而异吧，Ross就会把每个单词的音发的很标准（后面的剧集也有吐槽）
 
+---
 
 ```
 M: Ok, everybody relax. This is not even a date.
@@ -91,12 +99,16 @@ M: Ok, everybody relax. This is not even a date.
 
 `just` again。
 
+---
 ```
+
 Ro: Hi~~
 ```
 Ross 的第一句台词竟然如此只短，但是其感情还是相当丰富额
 
 （我怎么胡扯个不停了）
+
+---
 
 ```
 J: This guy sasys hello I wanna kill myself.
@@ -118,6 +130,8 @@ I just wanna cup of water.
 ```
 是一个很简单但是很地道的词
 
+---
+
 ```
 Ro: I just feel like someone reached my throat, grabbed my
     small intestine, pulled it out of my mouth and tied it
@@ -137,7 +151,8 @@ Ro: I just feel like someone reached my throat, grabbed my
 ```
 I was robbed .....我忘了怎么写了....
 ```
-alright next!
+--- 
+
 ```
 Ro: Stop cleansing my aura!
 ```
@@ -153,6 +168,7 @@ cleansing是`cleanse`的变形，表示`净化,清洗`，当然这里和`aura`�
 
 ![](../source/image/aura.jpg)
 
+---
 
 ```
 Ro: To hell with her. She left me!!
@@ -160,6 +176,8 @@ Ro: To hell with her. She left me!!
 相信我，看老友记能学到很多骂人的话23333333
 
 To hell with sb.就是一句挺地道的骂人的。。。（sb = somebody,骚年你想什么呢？）
+
+---
 
 ```
 Ro: Why dose everyone keep fixating on that?
@@ -172,6 +190,8 @@ keep比较常用的用法有:
 这里还有一个就是`fixating`是`fixate`的变形
 
 `fixate`表示`注视,注意力放在`
+
+---
 
 ```
 Ra: Oh God Monica Hi!
@@ -186,7 +206,9 @@ Ra: Oh God Monica Hi!
 这里的just就不是只，仅仅的意思了，而是`刚才， 刚刚`表示一个时间上的提前。所以这里可以注意到时态用的是`一般过去时`。
 
 ---
-所以到目前为止，6个人都出场完毕，这6个人的故事也才刚刚开始。
+**所以到目前为止，6个人都出场完毕，这6个人的故事也才刚刚开始。**
+
+---
 
 ```
 Ra: I always knew he looked familiar but...
@@ -202,6 +224,7 @@ It's like all of my life, everyone has always told me ...
 
 所以always的使用要注意结合时态。
 
+---
 
 ```
 M: Well, I guess we've established she's staying with Monica.
@@ -210,7 +233,7 @@ M: Well, I guess we've established she's staying with Monica.
 
 Monica紧跟了这句，好吧，我猜我们已经决定了她要和Monica住。
 
-这里的`establish`这个词的使用就非常地道了。`establish`原义为建立，确立。在这里使用`现在完成时`和`establish`相结合表示已经确定，已经建立，就可以很地道的将确定某事，敲定某事表达出来了！
+这里的`establish`这个词的使用就非常地道了。`establish`原义为`建立，确立`。在这里使用`现在完成时`和`establish`相结合表示已经确定，已经建立，就可以很地道的将确定某事，敲定某事表达出来了！
 
 这里的`she's staying`是`现在进行时表将来`的经典用法，表示Rachel将要和Monica住了。
 
@@ -243,6 +266,8 @@ Ro: So Rachel, what are you up to tonight?
 
 愿意表示你在忙什么？
 
+---
+
 ```
 Ro: Anyway, if you don't feel like being alone tonight...
 ```
@@ -250,6 +275,8 @@ Ro: Anyway, if you don't feel like being alone tonight...
 这里有一个`feel like doing`的用法，表示`想要做什么`
 
 **feel like doing = want to do**
+
+---
 
 ```
 J: What the hell do you do on a real date?
@@ -265,6 +292,8 @@ What the hell are you talking about?
 ```
 可以发现`what the hell`后面常跟一个`一般疑问句`。
 
+---
+
 ```
 J: I will not take this abuse.
 
@@ -272,10 +301,14 @@ J: 别这样羞辱我，我不吃你那一套。
 ```
 `abuse`，侮辱，恶言，辱骂，还有滥用的意思
 
+---
+
 ```
 M: I can't stop smiling.
 ```
 `can not stop doing sth`表示`情不自禁的做某件事`
+
+---
 
 ```
 P: Give her a break, it's hard being on your own first time.
@@ -314,6 +347,8 @@ M: Welcome to the real world!
 
 You know what? I'm gonna kill myself!!
 ```
+
+---
 
 ```
 Ro: You know, you probably didn't know this,
