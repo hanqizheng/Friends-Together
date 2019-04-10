@@ -11,7 +11,12 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 
 现在开了这个repository也算给自己立下了Flag，希望能把自己所学习的跟大家分享。
 
-## [目录传送门](#menu)
+
+## 目录
+
+### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
+- [Episode 1](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode1.md)
+
 
 ### 关于我
 
@@ -38,8 +43,3 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 **总的来说就是，没有特定的内容局限，我可能想到什么写什么。**
 
 <span id="menu"></span>
-
-## 目录
-
-### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
-- [Episode 1](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode1.md)
