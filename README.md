@@ -20,7 +20,7 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 
 ### 关于我
 
-[My Blog](hanqizheng.github.io)
+[My Blog](https://hanqizheng.github.io)
 
 
 如果大家看了我的笔记发现有些地方是`错的`，或者想继续`补充知识点`,or something else,**可以在issue里给我留言，也可以fork到自己名下给我提pr。**
