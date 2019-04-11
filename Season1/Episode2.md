@@ -247,6 +247,8 @@ Barry表示他真的很感谢Rachel，因为之前他们在一起的时候他并
 <span id="id"></span>
 ## 干货
 
+**全部干货需要详细阅读全文**
+
 - `Yeah`这个词既然作为一个语气词，包括大家都知道`自己很爽的时候可以用Yeah`(别想歪)
   还有照相的时候yeah一下。
   其实`yeah`在一个相互表达观点的对话中也是非常好用的一个词用来表达`赞同对方观点`的意思
@@ -259,13 +261,13 @@ Barry表示他真的很感谢Rachel，因为之前他们在一起的时候他并
 
 ### vocabulary
 
-cave people 原始人
-carpet **n.** 地毯，毛毯
-paranoid **adj.** 属于偏执狂的，妄想狂的
-fluffy **adj.** 松软的，毛茸茸的，轻柔的，无聊的
-ammunition **n.** 弹药，军火
-chaotic **adj.** 混沌的，一片混乱的
-twirl **vt.** 快速转动 **n.** 扭动，旋转
-stomp **n.** 跺脚，重踩
-dread **vt.** 害怕， 担心 **n.** 恐惧 畏惧 **adj.** 可怕的
-terrific **adj.** 极好的，异乎寻常的，了不起的
+- cave people 原始人
+- carpet **n.** 地毯，毛毯
+- paranoid **adj.** 属于偏执狂的，妄想狂的
+- fluffy **adj.** 松软的，毛茸茸的，轻柔的，无聊的
+- ammunition **n.** 弹药，军火
+- chaotic **adj.** 混沌的，一片混乱的
+- twirl **vt.** 快速转动 **n.** 扭动，旋转
+- stomp **n.** 跺脚，重踩
+- dread **vt.** 害怕， 担心 **n.** 恐惧 畏惧 **adj.** 可怕的
+- terrific **adj.** 极好的，异乎寻常的，了不起的

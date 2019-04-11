@@ -24,7 +24,13 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 [My Blog](https://hanqizheng.github.io)
 
 
-如果大家看了我的笔记发现有些地方是`错的`，或者想继续`补充知识点`,or something else,**可以在issue里给我留言，也可以fork到自己名下给我提pr。**
+如果大家发现笔记有错误
+
+或者想继续`补充知识点`
+
+or something else
+
+**可以在issue里给我留言，也可以fork到自己名下给我提pr。**
 
 总的来说希望大家可以喜欢这个repo，能从这个repo中学到东西，那么它的价值就体现了！！！
 
