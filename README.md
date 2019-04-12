@@ -17,6 +17,7 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 ### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
 - [Episode 1](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode1.md)
 - [Episode 2](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode2.md)
+- [Episode 3](https://github.com/hanqizheng/Engilsh-Note/blob/master/Season1/Episode3.md)
 
 
 ### 关于我
