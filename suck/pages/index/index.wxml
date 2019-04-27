@@ -1,0 +1,35 @@
+<!--index.wxml-->
+<view>
+  <view class='container-head'>
+    <!-- <view class="userinfo">
+      <button wx:if="{{!hasUserInfo && canIUse}}" open-type="getUserInfo" bindgetuserinfo="getUserInfo"> 获取头像昵称 </button>
+      <block wx:else>
+        <image bindtap="bindViewTap" class="userinfo-avatar" src="{{userInfo.avatarUrl}}" mode="cover"></image>
+        <text class="userinfo-nickname">{{userInfo.nickName}}</text>
+      </block>
+    </view> -->
+    <view class="banner">
+      <image class='banner-image' src="src/banner.png"></image>
+    </view>
+    <view class='banner-tip'>
+      <text>Let's learn something!</text>
+    </view>
+    <view class='lessonList'>
+      <button class='lesson' hover-class='lesson-hover'>English</button>
+      <button class='lesson' hover-class='lesson-hover'>Node.js</button>
+      <button class='lesson' hover-class='lesson-hover'>Go</button>
+      <text class='lesson-tip'>To be continue...</text> 
+    </view>
+  </view>
+  <view class='container-foot'>
+    <button class="link-github" plain='true'>
+      <image class="link-github" src='src/github-brands.png' mode='widthFix'></image>
+    </button>
+    <button class="link-github" plain='true'>
+      <image class="link-github" src='src/blog-solid.png' mode='widthFix'></image>
+    </button>
+    <button class="link-github" plain='true'>
+      <image class="link-github" src='src/weibo-brands.png' mode='widthFix'></image>
+    </button>
+  </view>
+</view>

@@ -1,0 +1,98 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+
+.container-head {
+  height: 85%;
+  width: 100%;
+}
+
+.container-foot {
+  height: 15%;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.banner {
+  height: 100px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.banner-image {
+  height: 100px;
+  width: 85%;
+}
+
+.banner-tip {
+  font-size: 25px;
+  font-weight: 25;
+  color: #6f89a2;
+  padding-top: 20px;
+  text-align: center;
+  font-family: 'Rubik', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.lessonList {
+  height: 300px;
+  width: 100%;
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+}
+
+.lesson {
+  margin-top: 30px;
+  width: 30%;
+  background-color: #79ceed;
+  color: white;
+  border-radius: 98rpx;
+  transition-duration: 100ms;
+}
+
+.lesson-hover {
+  transform: scale(1.1);
+  background-color: #3b9bbe;
+}
+
+.lesson-tip {
+  font-size: 15px;
+  font-weight: 25;
+  color: #7e8f9e;
+  padding-top: 20px;
+  text-align: center;
+  vertical-align: bottom;
+  font-family: 'Rubik', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+button[plain] {
+  border: none;
+}
+
+.link-github {
+  padding: 0px;
+  height: 36px;
+  width: 36px;
+}
