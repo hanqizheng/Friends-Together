@@ -157,7 +157,7 @@ Janice走进来开始bbbbbbbbb，Chandler显然有点紧张，然后这时候Phe
 
 Chandler一脸懵逼。然后开始疯狂喝咖啡，可以看到桌子上有好多杯咖啡。
 
-![](/../source/image/season1/e05_2.png)
+![](../source/image/season1/e05_2.png)
 
 ---
 
@@ -165,11 +165,11 @@ Chandler一脸懵逼。然后开始疯狂喝咖啡，可以看到桌子上有好
 
 洗衣房的Rachel和Ross遇到了一个野蛮大妈。
 
-![](/../source/image/season1/e05_1.png)
+![](../source/image/season1/e05_1.png)
 
 经过和野蛮大妈的争论让他俩感情更进一步的，Ross和Rachel的感情线应该是整个第一季的主线。
 
-![](/../source/image/season1/e05_3.png)
+![](../source/image/season1/e05_3.png)
 
 
 <span id="id"></span>
