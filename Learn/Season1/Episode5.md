@@ -186,6 +186,6 @@ Chandler一脸懵逼。然后开始疯狂喝咖啡，可以看到桌子上有好
 - detergent **n.** 洗涤剂
 - brutal **adj.** 残忍的，野蛮的，不讲理的
 - freakish **adj.** 异想天开的，朝三暮四的
-- supreme **adj.** 最高的，至高无上的，最重要的。还记得当时傻傻的把这个词认成super me
+- supreme **adj.** 最高的，至高无上的，最重要的。还记得当时傻傻的把这个词认成super me，尬
 
 
