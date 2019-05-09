@@ -1,6 +1,6 @@
 # Friends 
 
-![](./source/image/Friends_logo.png)
+![](/Learn/source/image/Friends_logo.png)
 
 ![](https://img.shields.io/badge/To-Learn-brightgreen.svg?longCache=true&style=popout-square) 
 ![](https://img.shields.io/badge/Status-Updating-red.svg?longCache=true&style=popout-square)
