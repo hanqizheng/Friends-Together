@@ -11,9 +11,12 @@ Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学�
 
 现在开了这个repository也算给自己立下了Flag，希望能把自己所学习的跟大家分享。
 
-### **NEW!!!** 配套微信小程序正在加紧制作，敬请期待！
+### **NEW FLAG!!!** 配套微信小程序正在加紧制作，敬请期待！
 
-[GitBook链接](https://hanqizheng598.gitbook.io/english/)阅读起来会更舒服一些。
+## GitBook链接
+
+https://hanqizheng598.gitbook.io/english/
+
 
 ## 目录
 
