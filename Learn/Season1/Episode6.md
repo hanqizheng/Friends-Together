@@ -1,4 +1,4 @@
-# Season1 Episode5
+# Season1 Episode6
 
 > 由于视频文件过于庞大，不方便上传，希望在阅读笔记之前，自己要有《老友记》的资源
 > 
@@ -27,12 +27,12 @@ Rachel第一次看Joey的剧，无敌兴奋。激动的给大家指宣传册上J
 
 ---
 ```
-Pheobe: THe exclamation point scares me.
+Phoebe: THe exclamation point scares me.
         It's not Freud, it's Freud!
 
 Ross: Shh! The magic is about to happen! 
 ```
-这里一个简单的台词就能看出Pheobe的演技。Freud是一个著名的精神学家，有写过《梦的解析》。所以大家可以看到Joey开场面前有一个沉睡的女子。
+这里一个简单的台词就能看出Phoebe的演技。Freud是一个著名的精神学家，有写过《梦的解析》。所以大家可以看到Joey开场面前有一个沉睡的女子。
 
 - `be about to do`意为`即将...`
 
@@ -88,10 +88,10 @@ Chandler倒是一点都不吝啬赞美之词，这里要注意到这个表达，
 ---
 
 ```
-Pheobe: But you guys always see these really beautiful woman with really 'nothing' guys.
+Phoebe: But you guys always see these really beautiful woman with really 'nothing' guys.
         You could be one of those guys.
 ```
-Pheobe说话还是那么一阵见血。确实是经常会看到很多漂亮的妹子和很多丑男走在一起，就觉得鲜花插在牛粪上了。（来自单身狗的嫉妒）
+Phoebe说话还是那么一阵见血。确实是经常会看到很多漂亮的妹子和很多丑男走在一起，就觉得鲜花插在牛粪上了。（来自单身狗的嫉妒）
 
 而且还顺便把Chandler黑了，哈哈哈哈哈
 
@@ -136,7 +136,7 @@ Chandler: Well, you know I had trouble with it at first too.
           and none of responsibility.
           I mean this is every guy's fantasy!
 
-Pheobe: Oh yeah, that is not true, Ross, is that your fantasy?
+Phoebe: Oh yeah, that is not true, Ross, is that your fantasy?
 
 Ross: No~ of course not！
       yeah~ it is.
@@ -193,17 +193,17 @@ Aurora: Why can't we just have what we have now?
 一段对话之后，Chandler也选择了离开。他也认为这样是不对的。
 
 ---
-再来一段Pheobe暖心的安慰。Joey因为没有演好`屁股`被炒了，很伤心，因为这是第一次他参加这么大的电影。
+再来一段Phoebe暖心的安慰。Joey因为没有演好`屁股`被炒了，很伤心，因为这是第一次他参加这么大的电影。
 
 ```
-Pheobe: I don't even think you just get one shot.
+Phoebe: I don't even think you just get one shot.
         I really believe big things gonna happen for you. I do.
         You gotta just keep thinking the day that some kids are gonna run up to their friends
         and say:"I got the part! I got the part! I'm gonna be Joey Tribbiani's ass!"
 
 Joey: You think? That's so nice!
 ```
-注意一个细节就是这里Pheobe说的是things，复数。
+注意一个细节就是这里Phoebe说的是things，复数。
 
 ## 闲聊
 

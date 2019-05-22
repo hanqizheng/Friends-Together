@@ -41,7 +41,7 @@ Joey: Since always! It's like dating language, you know,
 Chandler: Oh! "You are such a nice guy" means "I'm gonna dating leather-wearing alcoholics
           so complaining about them to you."
 
-Pheobe: Oh! you know, "I think we should see other people"
+Phoebe: Oh! you know, "I think we should see other people"
         means "haha, I already am!"
 ```
 大家纷纷罗列出了一些恋爱的`潜台词`，其实还有很多，但是骚年，醒醒，你来这里的目的不是学习黑话的，是学习英语的。
@@ -101,10 +101,10 @@ Joey: That's rediculou rediculous！
 
 ---
 
-就在大家讨论尺寸的时候，Pheobe气冲冲的走进来
+就在大家讨论尺寸的时候，Phoebe气冲冲的走进来
 
 ```
-Pheobe: @#$18*32... It's my bank!
+Phoebe: @#$18*32... It's my bank!
 
 Monica: What did they do to you?
 
@@ -122,14 +122,14 @@ Chandler: Oh~ Satan's minions at work again.
 ---
 
 ```
-Pheobe: Yeah, Cuz I have to go down there and deal with them.
+Phoebe: Yeah, Cuz I have to go down there and deal with them.
         It's not mine.
         I didn't earn it, If I kept it would be like stealing.
 
 Rachel: Yeah, but you could spend it, it will be like shopping!
 ```
 
-Pheobe表示自己不能要这笔钱，因为不是自己的，如果留下感觉就像偷窃。
+Phoebe表示自己不能要这笔钱，因为不是自己的，如果留下感觉就像偷窃。
 
 然后Rachel这个逻辑笑死我，你可以花了他买点东西，那样你感觉就像是在Shopping了~~
 
@@ -138,7 +138,7 @@ Pheobe表示自己不能要这笔钱，因为不是自己的，如果留下感�
 就在大家都讨论Phoebe这笔钱该怎么办的时候，Monica发现Chandler的行为诡异
 
 ```
-Pheobe: I couldn't believe you!
+Phoebe: I couldn't believe you!
         You've been this so good for 3 years!
 
 Chandler: And this is my reward!
@@ -203,7 +203,7 @@ I do like you!
 
 这时后回到Monica的公寓，Chandler还在吸烟！！
 
-Phoebe这时候走进来（这时候的Phoebe真的是青春无敌啊，这时候她的打扮也很好看，到了后面总觉的Pheobe的打扮有点老气）还是很生气的那种，因为。。。。
+Phoebe这时候走进来（这时候的Phoebe真的是青春无敌啊，这时候她的打扮也很好看，到了后面总觉的Phoebe的打扮有点老气）还是很生气的那种，因为。。。。
 
 ```
 Phoebe: "Dear Miss.Buffay: 
@@ -292,7 +292,7 @@ Rachel: The hair comes out and the gloves come off?
 
 然后大家纷纷表示不理解，Alan就像洗脑了一样把其他人都迷住了。
 
-而Pheobe因为举报可乐里的大拇指得到了$7000.???????可能好人有好报吧。
+而Phoebe因为举报可乐里的大拇指得到了$7000.???????可能好人有好报吧。
 
 <span id="id"></span>
 ## 干货

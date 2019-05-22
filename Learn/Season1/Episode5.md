@@ -43,10 +43,10 @@ Joey当然也不甘示弱，typical Joey talk, 说妹子们无论何时何地，
 
 ---
 ```
-Pheobe: You know what? I don't get is the way guys always do so
+Phoebe: You know what? I don't get is the way guys always do so
         many mean things and they're not even care.
 ```
-Pheobe一般不想说到点子上，但一说，绝对是威力惊人。确实，连我这个男的听了都没办法反驳。男生总是做出很过分的事情，而且做了以后还不自知，不觉着做错了。
+Phoebe一般不想说到点子上，但一说，绝对是威力惊人。确实，连我这个男的听了都没办法反驳。男生总是做出很过分的事情，而且做了以后还不自知，不觉着做错了。
 
 **这里就要引出今天的关键词`even`了。**
 
@@ -93,21 +93,21 @@ Chandler说的很对，我个人感觉，就会觉得分手的时候很尴尬，
 ```
 Joey: Why you have to break up with her.Be a man, just stop calling.
 ```
-这时候Joey说的话又自一次印证了Pheobe的话，boys always do something mean and they even don't care.Joey一看就是不和女生说分手，而是直接不再联系。这样真的很恶心。后面也会有说到Joey很难开始一段认真的relationship,也会说到Joey经常只和妹子419，后面就不会再联系他们了。算是Joey的一个缺点但也是特点吧。
+这时候Joey说的话又自一次印证了Phoebe的话，boys always do something mean and they even don't care.Joey一看就是不和女生说分手，而是直接不再联系。这样真的很恶心。后面也会有说到Joey很难开始一段认真的relationship,也会说到Joey经常只和妹子419，后面就不会再联系他们了。算是Joey的一个缺点但也是特点吧。
 
 ---
 
-这时候Pheobe来帮Chandler
+这时候Phoebe来帮Chandler
 ```
-Pheobe: You know, if you want, I'll do it with you.
+Phoebe: You know, if you want, I'll do it with you.
 
 Chandler: Thanks, but she'd feel like we were ganging up on her.
 ```
-Pheobe表示如果你不敢分手，那么我可以和你一起分手，给你壮壮胆。
+Phoebe表示如果你不敢分手，那么我可以和你一起分手，给你壮壮胆。
 
 Chandler说那样Janice会觉得我找人联合起来对付她。
 
-其实Pheobe是和自己的男朋友分手。反正也要分了。
+其实Phoebe是和自己的男朋友分手。反正也要分了。
 
 - `gang up on sb.`意为`联合起来对付某人`。
 
@@ -116,7 +116,7 @@ Chandler说那样Janice会觉得我找人联合起来对付她。
 这时候要引出本集第二条线Ross和Rachel洗衣服这里了。
 
 ```
-Pheobe: What's the matter why so scrunchie?
+Phoebe: What's the matter why so scrunchie?
 
 Rachel: Oh, It's my father, he wants to give me a mercedes convertible.
 
@@ -153,7 +153,7 @@ Joey: You don't say.
 ---
 镜头切回Chandler和Janice分手这里，简直笑死了。
 
-Janice走进来开始bbbbbbbbb，Chandler显然有点紧张，然后这时候Pheobe的男朋友走进来和Pheobe交谈几句，然后一个拥抱，分手结束。
+Janice走进来开始bbbbbbbbb，Chandler显然有点紧张，然后这时候Phoebe的男朋友走进来和Phoebe交谈几句，然后一个拥抱，分手结束。
 
 Chandler一脸懵逼。然后开始疯狂喝咖啡，可以看到桌子上有好多杯咖啡。
 
