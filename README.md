@@ -30,6 +30,7 @@ https://hanqizheng598.gitbook.io/english/
 - [Episode 5](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode5.md)
 - [Episode 6](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode6.md)
 - [Episode 7](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode7.md)
+- [Episode 8](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode8.md)
 
 
 ### 关于我
