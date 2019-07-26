@@ -27,7 +27,7 @@ Chandler: Dehydrated Japanese noodles under the fluoresent litghts.
 
   而这里的`gorgeous`这个词更是要大说特说！`gorgeous`意为`华丽的，美丽的`。不光可以形容一件事物非常的美好，**还可以形容人长得好看。**
 
-  所以，想夸赞别人就不要老用`butiful、handsome`了。这里还要再给大家科普几个夸人好看的词：
+  所以，想夸赞别人就不要老用`beautiful、handsome`了。这里还要再给大家科普几个夸人好看的词：
 
   - `attractive`，吸引人的，迷人的
   - `cute`,可爱的。这个`cute`也是非常常用的一个表达，和`gorgeous`同理，夸人好看！
@@ -71,11 +71,11 @@ Shelly: Well yeah! Oh god! I just... I... You're nice...
 ---
 
 ```
-Chandler: Can you believe she actrually thought that?
+Chandler: Can you believe she actually thought that?
 
 Rachel: Emmm.. Yeah~
         Well, I mean when I first met you, 
-        you know I thought maybe, possibily you might be~
+        you know I thought maybe, possibly you might be~
 
 Chandler: You did?
 
@@ -94,7 +94,7 @@ Joey: Not me!
 Ross: No no no, me neither!
       Although back in collage Susan did.
 ```
-Chandler把自己在公司的遭遇和朋友们一说，用的时`radiculous`来形容，但是，没想到朋友们的反应确是。。。。也有过这种想法。
+Chandler把自己在公司的遭遇和朋友们一说，用的是`radiculous`来形容，但是，没想到朋友们的反应确是。。。。也有过这种想法。
 
 ![](../source/image/season1/e08_2.png)
 ![](../source/image/season1/e08_3.png)
@@ -108,9 +108,9 @@ Chandler把自己在公司的遭遇和朋友们一说，用的时`radiculous`来
 这显然让Chandler有点不爽，凭啥啊，凭啥就觉得我是gay啊！
 
 ```
-Chandler: So, what is about me?
+Chandler: So, what is it about me?
 ```
-- `What is about me?`什么是关于我的？关于我的是什么？这样的直译显然不对，所以，这句话其实就是说`那我错在哪了？我的错在哪？`这个意思。
+- `What is it about me?`什么是关于我的？关于我的是什么？这样的直译显然不对，所以，这句话其实就是说`那我错在哪了？我的错在哪？`这个意思。
 
 
 
@@ -126,7 +126,7 @@ Chandler: So, what is about me?
 ---
 
 ```
-Monica: Ok, I don't know, You just have a qulity.
+Monica: Ok, I don't know, You just have a quality.
 ```
 
 Monica给出了答案，表示Chandler就是有某种特质，但说不上来是啥，就是会让人觉得你是Gay。
@@ -141,7 +141,7 @@ Monica给出了答案，表示Chandler就是有某种特质，但说不上来是
 
 ```
 Chandler: Yeah good.
-          A QULITY, I was worried about you were gonna be vague about this.
+          A QUALITY, I was worried about you were gonna be vague about this.
 ```
 显然这不是个满意的答案，钱氏讽刺警告。
 
