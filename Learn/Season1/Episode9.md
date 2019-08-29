@@ -303,6 +303,7 @@ what Mario isn't telling you....
 ![](../source/image/season1/e09p54.png)
 
 这应该是大家在一起第一次很严重的争吵，这也让众人之间的关系更加立体，他们不是玛丽苏般的友情，只有开心快乐。他们也会争吵，也会因为事情而互相生气，这也是友情的一部分。
+
 ---
 
 ![](../source/image/season1/e09p55.png)
