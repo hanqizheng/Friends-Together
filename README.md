@@ -23,14 +23,15 @@ https://hanqizheng598.gitbook.io/english/
 ## 目录
 
 ### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
-- [Episode 1](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode1.md)
-- [Episode 2](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode2.md)
-- [Episode 3](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode3.md)
-- [Episode 4](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode4.md)
-- [Episode 5](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode5.md)
-- [Episode 6](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode6.md)
-- [Episode 7](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode7.md)
-- [Episode 8](https://github.com/hanqizheng/English-Note/blob/master/Learn/Season1/Episode8.md)
+- [Episode 1](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode1.md)
+- [Episode 2](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode2.md)
+- [Episode 3](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode3.md)
+- [Episode 4](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode4.md)
+- [Episode 5](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode5.md)
+- [Episode 6](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode6.md)
+- [Episode 7](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode7.md)
+- [Episode 8](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode8.md)
+- [Episode 9 读者力荐！！](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode9.md)
 
 
 ### 关于我
