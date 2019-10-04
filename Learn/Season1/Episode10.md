@@ -110,9 +110,121 @@ desperate scrambel to find anything with lips
 ![](../source/image/season1/episode10/14.png)
 ![](../source/image/season1/episode10/15.png)
 
-这里注意Chandler的这个表达。就记住就行。
+```
+Chandler: That's guy going home with a note!
+```
+
+这里注意Chandler的这个表达。就记住就行。一种很幽默的表达`上了一课，得到教训`。
+
+---
+
+接下来这几句话，我希望在座的所有男士，忘记晚上吃饭都不要忘记这几句话。都拿小本本记下来！！！
+
+![](../source/image/season1/episode10/16.png)
+![](../source/image/season1/episode10/17.png)
+![](../source/image/season1/episode10/18.png)
+
+David不愧是有文化的人，理工男的老实又流露出一丝丝痴情，情话说的更是好听(当然在David本身的立场他就是实话实说)
+
+文化人用的形容词都是不一样的
+
+```
+David: you are, uh, luminous with a kind of delicate grace.
+```
+- 这里是意译成了散发出优雅的气质，我们既然学习这句话，就直接的白话翻译一下，才能体会到是怎么个修辞手法。
+
+  `luminous`是形容词发光的，`delicate`是形容词微妙的，同时修饰名词`grace` ,grace这个词一般就是优雅的，魅力的意思来形容一个人。
+  翻译出来就是`发着淡淡光芒的优雅`。这哪个女生听了不得魂都飞走了。
+
+- 而`grace`偏向恩泽之类的意思，则相对会和宗教，以及欧洲古代的等级制度相对挂钩。
+
+  看过`权力的游戏`的小伙伴应该很熟悉，里面称呼某个家族的统领男性都是`my lord`,称呼什么什么王都是`your grace`，称呼家族统领的妻子等有地位的女性都是`my lady`。这里的your grace就是一个尊称。
+
+---
+
+![](../source/image/season1/episode10/19.png)
+![](../source/image/season1/episode10/20.png)
+![](../source/image/season1/episode10/21.png)
+![](../source/image/season1/episode10/22.png)
+
+```
+Pheobe: He's kind of like the guy I went to see that with.
+
+        Except he's smarter and gentler and sweeter.
+```
+
+- 注意看这句话用到了`比较级`，而引领这个比较级的词是`except`。我们来理一下这句话的逻辑。
+
+  他就是我想一起看那部电影的类型，`除了`他更聪明，更绅士，更贴心。
+  这里的除了是在`强调`David比内心喜欢的内种类型`还要好`。所以用到了比较级。
+
+---
+
+![](../source/image/season1/episode10/23.png)
+![](../source/image/season1/episode10/24.png)
+![](../source/image/season1/episode10/25.png)
+
+而Pheobe说着说着，就把话说到重点。
+
+**先前大家都说好在跨年的时候只有他们六个人，一起好好吃一顿饭。**而现在Pheobe则想反悔。
+
+---
+
+![](../source/image/season1/episode10/26.png)
+![](../source/image/season1/episode10/27.png)
+![](../source/image/season1/episode10/30.png)
+![](../source/image/season1/episode10/31.png)
+![](../source/image/season1/episode10/32.png)
+![](../source/image/season1/episode10/33.png)
+
+结果大家当时约定好的跨年夜都纷纷毁约，除了Ross，全部都找到了跨年kiss的对象。
+
+---
+
+![](../source/image/season1/episode10/28.png)
+![](../source/image/season1/episode10/29.png)
+
+- `happen to do sth`意为`刚好做某事`，表示你`正好，巧了之类的意思。`我刚好有一支笔`I happen to have a pen.`是一个很常用的表达。
+
+---
+
+![](../source/image/season1/episode10/34.png)
+![](../source/image/season1/episode10/35.png)
+
+```
+Chandler: That's so weird.
+
+          I had such a blast with him the other night.
+```
+
+- `weird`,是我们之前说过的表示`奇怪`的词，我们来复习一下，有`odd / weird / geek / nerd`。后两个表示`奇怪的人`。
+- `blast` 意为`爆炸，一阵疾风`的意思，在这句话是一个名词。`have a blast with sb/sth`表示和某人某事过得开心愉快。非常棒的一个表达，不要再说`we have such a great time`了！！
+
+---
+
+结果大家在跨年party上都没有能按照自己的计划行使
+
+![](../source/image/season1/episode10/36.png)
+
+David去了俄罗斯
+
+![](../source/image/season1/episode10/37.png)
+
+Chandler被Jenise逼疯
+![](../source/image/season1/episode10/38.png)
+
+Rachel在机场被暴躁大妈殴打
+![](../source/image/season1/episode10/41.png)
+
+Fun Bobby 变成sad Bobby
+![](../source/image/season1/episode10/39.png)
+
+而Joey的情人却带着孩子来
 
 
+![](../source/image/season1/episode10/40.png)
+
+**还是那句话，大家的节日总是那么戏剧化。感恩节，到现在的跨年。最后还是履行了当时的No date pact**。
 
 
 ## Vocabulary
@@ -122,3 +234,9 @@ desperate scrambel to find anything with lips
 - cruel *adj.* 残忍的， 使人痛苦的，无情的
 - Sanskrit *n.* 梵文
 - scrambel *v.* 攀登，爬，抢夺 *n.* 掠夺者
+- conventional *adj.* 传统的，平常的，约定的
+- luminous *adj.* 发光的， 明亮的， 清楚的
+- delicate *adj.* 微妙的，熟练的，纤弱的，易损的
+- grace *n.* 恩泽，优雅，慈悲，魅力
+- methodical *adj.* 有条不紊的， 有方法的， 井然有序的
+- blast *n.* 爆炸，一阵疾风 *v.* 摧毁， 枯萎， 攻击
