@@ -206,7 +206,9 @@ Chandler: That's so weird.
 
 ![](../source/image/season1/episode10/36.png)
 
-David去了俄罗斯
+David去了俄罗斯， 这里要说一下`明斯克`是白俄罗斯的首都，按照老友记第一季播出时间应该是1994年，那会儿苏联已经解体了，所以这里Max说的明斯克在俄罗斯并不正确，明斯克是白俄罗斯的首都。
+
+果然是理科生，对地理不是很懂，我也一样，我百度的。。。。。
 
 ![](../source/image/season1/episode10/37.png)
 
