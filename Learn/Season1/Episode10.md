@@ -10,6 +10,8 @@
 
 正片开始是一个过长的画面，寒冷冬日的纽约街头，交代了当前的时间。
 
+![](../source/image/season1/episode10/1.png)
+
 ```
 Ross: Guys? There's uh somebody I'd like you to meet.
 ```
