@@ -33,6 +33,7 @@ https://hanqizheng598.gitbook.io/english/
 - [Episode 8](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode8.md)
 - [Episode 9](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode9.md)
 - [Episode 10](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode10.md)
+- [Episode 11](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode11.md)
 
 
 ### 关于我
