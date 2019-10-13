@@ -111,7 +111,7 @@ Ross 的第一句台词竟然如此只短，但是其感情还是相当丰富额
 ---
 
 ```
-J: This guy sasys hello I wanna kill myself.
+J: This guy says hello I wanna kill myself.
 ```
 紧接着Joey就吐槽这句Hi了
 
