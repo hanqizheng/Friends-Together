@@ -1,4 +1,4 @@
-# Season1 Episode 13
+# Season1 Episode 14
 
 > 由于视频文件过于庞大，不方便上传，希望在阅读笔记之前，自己要有《老友记》的资源
 >
@@ -25,8 +25,8 @@ Ross: She barely knows me. We just live in the same building.
 - `bare`这个词是一个常常被我们忽略但是却在口语中及其好用的一个词。它意为`裸露的， 空的， 仅仅的`。`barely`作为一个副词它经常用来表示*程度*，就像这里，表示`基本不知道`。
 
 ---
-![](../source/image/season1/episode13/17.09.jpg)
-![](../source/image/season1/episode13/17.09.jpg)
+![](../source/image/season1/episode14/17.09.jpg)
+![](../source/image/season1/episode14/17.09.jpg)
 
 ```en
 Ross: Come on, I think it's insane!
@@ -38,12 +38,12 @@ Chandler和Joey在兄弟的立场上觉得Ross应该不要再等待Rachel了（�
 
 正好在咖啡店遇到的美女是和Ross住同一栋楼的，两兄弟就鼓励Ross迈出这一步！
 
-![](../source/image/season1/episode13/42.06.jpg)
+![](../source/image/season1/episode14/42.06.jpg)
 
 ---
 
-![](../source/image/season1/episode13/27.48.jpg)
-![](../source/image/season1/episode13/27.58.jpg)
+![](../source/image/season1/episode14/27.48.jpg)
+![](../source/image/season1/episode14/27.58.jpg)
 
 ```en
 Monica: Roger wants to take her out tomorrow night.
@@ -56,9 +56,9 @@ Phoebe: Because he's creepy, and mean, and a little frightening.
 
 - 复习一下我们上一篇提到的`creepy`，`creep`有动词`慢慢发展， 悄悄进行`的意思，也有`讨厌鬼，马屁精`的名词含义。
 
-![](../source/image/season1/episode13/31.55.jpg)
-![](../source/image/season1/episode13/32.00.jpg)
-![](../source/image/season1/episode13/32.02.jpg)
+![](../source/image/season1/episode14/31.55.jpg)
+![](../source/image/season1/episode14/32.00.jpg)
+![](../source/image/season1/episode14/32.02.jpg)
 
 ---
 
@@ -79,7 +79,7 @@ Joey: No no no! Don't you dare bail on me.
 
 ---
 
-![](../source/image/season1/episode13/33.34.jpg)
+![](../source/image/season1/episode14/33.34.jpg)
 
 ```en
 Chandler: What a crapy night!
@@ -89,7 +89,7 @@ Chandler: What a crapy night!
 - 口语里经常说`What a crap!`。是一个感叹句，用于表示对某一段话的极度不认同，可以理解成`真他妈能扯`类似的意思。
 - `crappy`则表示`烂， 很烂， 非常烂`的意思。
 
-![](../source/image/season1/episode13/34.06.jpg)
+![](../source/image/season1/episode14/34.06.jpg)
 
 ---
 
