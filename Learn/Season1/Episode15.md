@@ -23,7 +23,7 @@ Chandler: Miss Tedlock, you're looking lovely today.
 
 我们注意到这句话Chandler用的是Miss，我们在小学就学过Miss是称呼没有结婚的女性的。而Tedlock如下图
 
-![](../source/image/season1/episode15/12.38.jpg)
+![](./../source/image/season1/episode15/1120.12.38.jpg)
 
 所以这可能就是这段的笑点所在吧？？？
 
@@ -43,7 +43,7 @@ Miss Tedlock: Well, Mr.Costilick would like you to stop by his office at the end
 
 ---
 
-![](../source/image/season1/episode15/34.13.jpg)
+![](./../source/image/season1/episode15/1120.34.13.jpg)
 
 哈哈哈哈哈看看Chandler手里拿着什么？？？？原来尖叫🐔在94年就有了。
 
