@@ -1,7 +1,7 @@
-# Friends 
+# 从另一个角度看《老友记》
 
 
-![](/Learn/source/image/Friends_logo.png)
+![](/source/image/Friends_logo.png)
 
 
 ![](https://img.shields.io/badge/To-Learn-brightgreen.svg?longCache=true&style=popout-square) 
@@ -9,17 +9,14 @@
 ![](https://img.shields.io/badge/level-freshman-blue.svg?longCache=true&style=popout-square)
 ![](https://img.shields.io/badge/Thank_You-Star-yellow.svg?longCache=true&style=popout-square)
 
-Hi Everyone, 特别喜欢看《老友记》，一直想通过看老友记来学习一些很地道的口语表达。
-
 现在开了这个repository也算给自己立下了Flag，希望能把自己所学习的跟大家分享。
-
-## 所以让我们开始欣赏《老友记》，顺便～学点英语吧！
 
 
 ## GitBook链接
 
 https://hanqizheng598.gitbook.io/english/
 
+---
 
 ## 目录
 
@@ -41,10 +38,8 @@ https://hanqizheng598.gitbook.io/english/
 - [Episode 15](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode15.md)
 - [Episode 16](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode16.md)
 
-### 关于我
-
-[My Blog](https://hanqizheng.github.io)
-
+---
+### 关于
 
 如果大家发现笔记有错误
 
