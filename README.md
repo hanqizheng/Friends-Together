@@ -1,6 +1,5 @@
 # 从另一个角度看《老友记》
 
-
 ![](/source/image/Friends_logo.png)
 
 
@@ -16,7 +15,6 @@
 
 https://hanqizheng598.gitbook.io/english/
 
----
 
 ## 目录
 
@@ -38,7 +36,6 @@ https://hanqizheng598.gitbook.io/english/
 - [Episode 15](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode15.md)
 - [Episode 16](https://github.com/hanqizheng/Watching-Friends-Together/blob/master/Learn/Season1/Episode16.md)
 
----
 ### 关于
 
 如果大家发现笔记有错误
