@@ -144,7 +144,7 @@ Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 
 ---
 
-众人听了Phoebe的陈述后觉得她应该和Joey谈一谈，让Joey明白自己的想法。但是当Phoebe走到Joey房间的门口，开门的确是...
+回到Phoebe这边，众人听了Phoebe的陈述后觉得她应该和Joey谈一谈，让Joey明白自己的想法。但是当Phoebe走到Joey房间的门口，开门的确是...
 
 ![](./../source/image/season1/episode16/16.24.jpg)
 
