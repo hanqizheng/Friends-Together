@@ -19,7 +19,7 @@
 ## 目录
 
 ### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
-- [Episode 1](https://github.com/hanqizheng/Friends-Together/blob/master/Season1/Episode1.md)
+- [Episode 1](/Season1/Episode10.md)
 - [Episode 2](https://github.com/hanqizheng/Friends-Together/blob/master/Season1/Episode2.md)
 - [Episode 3](https://github.com/hanqizheng/Friends-Together/blob/master/Season1/Episode3.md)
 - [Episode 4](https://github.com/hanqizheng/Friends-Together/blob/master/Season1/Episode4.md)
