@@ -1,6 +1,12 @@
-# 从另一个角度看《老友记》
+<h1 align="center">
+  一起看《老友记》
+</h1>
 
-![](/source/image/Friends_logo.png)
+
+<p align="center">
+<img width="800" src="./source/image/Friends_logo.png" alt="Vue logo">
+</p>
+
 
 
 ![](https://img.shields.io/badge/To-Learn-brightgreen.svg?longCache=true&style=popout-square) 
@@ -19,22 +25,22 @@
 ## 目录
 
 ### [Season 1](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season1)
-- [Episode 1](/Season1/Episode1.md)
-- [Episode 2](/Season1/Episode2.md)
-- [Episode 3](/Season1/Episode3.md)
-- [Episode 4](/Season1/Episode4.md)
-- [Episode 5](/Season1/Episode5.md)
-- [Episode 6](/Season1/Episode6.md)
-- [Episode 7](/Season1/Episode7.md)
-- [Episode 8](/Season1/Episode8.md)
-- [Episode 9](/Season1/Episode9.md)
-- [Episode 10](/Season1/Episode10.md)
-- [Episode 11](/Season1/Episode11.md)
-- [Episode 12](/Season1/Episode12.md)
-- [Episode 13](/Season1/Episode13.md)
-- [Episode 14](/Season1/Episode14.md)
-- [Episode 15](/Season1/Episode15.md)
-- [Episode 16](/Season1/Episode16.md)
+- [Episode 1 - The Pilot](/Season1/Episode1.md)
+- [Episode 2 - The One with the Sonogram at the End](/Season1/Episode2.md)
+- [Episode 3 - The One with the Thumb](/Season1/Episode3.md)
+- [Episode 4 - The One with George Stephanopoulos](/Season1/Episode4.md)
+- [Episode 5 - The One with the East German Laundry Detergent](/Season1/Episode5.md)
+- [Episode 6 - The One with the Butt](/Season1/Episode6.md)
+- [Episode 7 - The One with the Blackout](/Season1/Episode7.md)
+- [Episode 8 - The One Where Nana Dies Twice](/Season1/Episode8.md)
+- [Episode 9 - The One Where Underdog Gets Away](/Season1/Episode9.md)
+- [Episode 10 - The One with the Monkey](/Season1/Episode10.md)
+- [Episode 11 - The One with Mrs. Bing](/Season1/Episode11.md)
+- [Episode 12 - The One with the Dozen Lasagnas](/Season1/Episode12.md)
+- [Episode 13 - The One with the Boobies](/Season1/Episode13.md)
+- [Episode 14 - The One with the Candy Hearts](/Season1/Episode14.md)
+- [Episode 15 - The One with the Stoned Guy](/Season1/Episode15.md)
+- [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md)
 
 ### 关于
 
