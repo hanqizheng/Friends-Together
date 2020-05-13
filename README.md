@@ -41,6 +41,8 @@
 - [Episode 14 - The One with the Candy Hearts](/Season1/Episode14.md)
 - [Episode 15 - The One with the Stoned Guy](/Season1/Episode15.md)
 - [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md)
+- [Episode 17 - The One with Two Parts: Part 2](/Season1/Episode17.md)
+- [Episode 18 - The One with All the Poker](/Season1/Episode18.md)
 
 ### 关于
 
