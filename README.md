@@ -5,16 +5,21 @@
 
 <p align="center">
 <img width="800" src="./source/image/Friends_logo.png" alt="Vue logo">
+
+
 </p>
 
 
+<div align="center">
 
 ![](https://img.shields.io/badge/To-Learn-brightgreen.svg?longCache=true&style=popout-square) 
 ![](https://img.shields.io/badge/Status-Updating-red.svg?longCache=true&style=popout-square)
 ![](https://img.shields.io/badge/level-freshman-blue.svg?longCache=true&style=popout-square)
 ![](https://img.shields.io/badge/Thank_You-Star-yellow.svg?longCache=true&style=popout-square)
 
-现在开了这个repository也算给自己立下了Flag，希望能把自己所学习的跟大家分享。
+</div>
+
+---
 
 
 <!-- ## GitBook链接[点这!!](https://hanqizheng598.gitbook.io/english/) -->
