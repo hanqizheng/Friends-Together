@@ -48,6 +48,7 @@
 - [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md)
 - [Episode 17 - The One with Two Parts: Part 2](/Season1/Episode17.md)
 - [Episode 18 - The One with All the Poker](/Season1/Episode18.md)
+- [Episode 19 - The One Where the Monkey Gets Away](/Season1/Episode19.md)
 
 ### 关于
 
