@@ -50,6 +50,7 @@
 - [Episode 18 - The One with All the Poker](/Season1/Episode18.md)
 - [Episode 19 - The One Where the Monkey Gets Away](/Season1/Episode19.md)
 - [Episode 20 - The One With the Evil Orthodontist](/Season1/Episode20.md)
+- [Episode 21 - The One with the Fake Monica](/Season1/Episode21.md)
 
 ### 关于
 
