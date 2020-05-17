@@ -51,6 +51,7 @@
 - [Episode 19 - The One Where the Monkey Gets Away](/Season1/Episode19.md)
 - [Episode 20 - The One With the Evil Orthodontist](/Season1/Episode20.md)
 - [Episode 21 - The One with the Fake Monica](/Season1/Episode21.md)
+- [Episode 22 - The One With the Ick Factor](/Season1/Episode22.md)
 
 ### 关于
 
