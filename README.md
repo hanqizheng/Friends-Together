@@ -52,6 +52,7 @@
 - [Episode 20 - The One With the Evil Orthodontist](/Season1/Episode20.md)
 - [Episode 21 - The One with the Fake Monica](/Season1/Episode21.md)
 - [Episode 22 - The One With the Ick Factor](/Season1/Episode22.md)
+- [Episode 23 - The One With the Birth](/Season1/Episode23.md)
 
 ### 关于
 
