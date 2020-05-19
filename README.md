@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img width="800" src="./source/image/Friends_logo.png" alt="Vue logo">
+<img width="800" src="./source/image/Friends_logo.png" alt="Friends logo">
 
 
 </p>
@@ -24,7 +24,7 @@
 
 <!-- ## GitBook链接[点这!!](https://hanqizheng598.gitbook.io/english/) -->
 
-
+## 号外！！第一季完结撒花🎉🎉
 
 
 ## 目录
