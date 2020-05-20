@@ -10,7 +10,7 @@
 ## 概要
 
 - Rachel终于知道了Ross喜欢他
-- Joey参加某个research不能having sex
+- Joey参加NYU的某个research，会发生什么有趣的事呢？
 
 
 看过美剧的小伙伴应该都知道，
