@@ -55,6 +55,10 @@
 - [Episode 23 - The One With the Birth](/Season1/Episode23.md)
 - [Episode 24 - The One Where Rachel Finds Out](/Season1/Episode24.md)
 
+### [Season 2]()
+
+- 敬请期待～
+
 ### 关于
 
 如果大家发现笔记有错误或者想继续`补充知识点`
