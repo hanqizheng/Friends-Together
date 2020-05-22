@@ -1,4 +1,4 @@
-# Season1 Episode1 - The Pilot
+# Season 1 Episode 1 - The Pilot
 
 > 因涉及版权且视频文件过于庞大，不方便上传，希望在阅读笔记之前，自己要有《老友记》的资源
 > 
