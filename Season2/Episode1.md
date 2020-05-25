@@ -121,9 +121,11 @@ Chandler: Okay, you have to stop the Q-tip when there's resistance.
 
 Monica看到Phoebe给Chandler和Joey剪的发型很好也想让Phoebe剪一个，但是她俩想的完全是两个人，Monica头发也遭殃了
 
+![](./../source/image/season2/episode1/34.21.jpg)
 
 Monica想要Demi Moore(左),而Phoebe认为是Dudley Moore(右)
 
+![](./../source/image/season2/episode1/57.35.jpg)
 
 ---
 
