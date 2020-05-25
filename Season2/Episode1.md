@@ -97,6 +97,46 @@ Chandler: But! The silver lining if you wanna see it is that he made this decisi
 
 ![](./../source/image/season2/episode1/32.08.jpg)
 
+---
+
+```
+Phoebe: I'm incredibly anal and an unbelievable control freak.
+
+Monica: No you're not.
+
+Phoebe: I know I'm not but you're. I was trying to spare your feelings.
+```
+
+- `I was trying to spare your feelings.`翻译为`我是不想上你的感情。`挺地道的表达，学一下。
+
+---
+
+```
+Chandler: Okay, you have to stop the Q-tip when there's resistance.
+```
+
+- 这句话大概的意思就是`当你用棉棒掏耳朵的时候，棉棒再也深入不进去就该停下来了。`Chandler是在调侃Joey想不通的问题就不要一直在想了。
+
+---
+
+Monica看到Phoebe给Chandler和Joey剪的发型很好也想让Phoebe剪一个，但是她俩想的完全是两个人，Monica头发也遭殃了
+
+
+Monica想要Demi Moore(左),而Phoebe认为是Dudley Moore(右)
+
+
+---
+
+```
+Tailor: How long do you want the cuffs?
+
+Chandler: At least as long as I have the pants.
+```
+
+- 这里的梗是裁缝问他裤子褶想要多长(长度单位)，但Chandler开玩笑的说我想让裤子褶活得跟裤子一样长(时间单位)
+
+---
+
 
 
 ## Vocabulary
@@ -105,3 +145,10 @@ Chandler: But! The silver lining if you wanna see it is that he made this decisi
 - claim **n.** 要求...的所有权, 认领，声称
 - baggage claim 认领行李
 - crotch **n.** 胯部， 裤裆
+- anal **adj.** 肛门的，极度刻板的
+- spare **adj.** 闲置的，不用的，备用的，空闲的 ｜ **n.** 备用品 ｜ **vt.** 拿得出，花得起
+- resistance **n.** 阻碍， 抵抗，电阻。
+- palpable **adj.** 可触摸到的，明显的，显而易见的，可察觉的。
+- tension **n.** 紧张关系，紧张，张力 ｜ **vt.** 绷紧
+- despite **prep.** 尽管
+- crack **n.** 裂缝， 漏洞， 噼啪声 ｜ **vt.** 使...裂开，砸开。
