@@ -57,7 +57,7 @@
 
 ### [Season 2]()
 
-- 敬请期待～
+- [Episode 1 - The One with Ross's New Girlfriend](/Season2/Episode1.md)
 
 ### 关于
 
