@@ -55,7 +55,7 @@
 - [Episode 23 - The One With the Birth](/Season1/Episode23.md)
 - [Episode 24 - The One Where Rachel Finds Out](/Season1/Episode24.md)
 
-### [Season 2]()
+### [Season 2](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season2)
 
 - [Episode 1 - The One with Ross's New Girlfriend](/Season2/Episode1.md)
 
