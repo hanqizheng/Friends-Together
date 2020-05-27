@@ -58,6 +58,7 @@
 ### [Season 2](https://github.com/hanqizheng/Engilsh-Note/tree/master/Season2)
 
 - [Episode 1 - The One with Ross's New Girlfriend](/Season2/Episode1.md)
+- [Episode 2 - The One With the Breast Milk](/Season2/Episode2.md)
 
 ### 关于
 
