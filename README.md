@@ -59,6 +59,7 @@
 
 - [Episode 1 - The One with Ross's New Girlfriend](/Season2/Episode1.md)
 - [Episode 2 - The One With the Breast Milk](/Season2/Episode2.md)
+- [Episode 3 - The One Where Heckles Dies](/Season2/Episode3.md)
 
 ### 关于
 
