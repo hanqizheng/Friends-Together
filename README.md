@@ -5,8 +5,6 @@
 
 <p align="center">
 <img width="800" src="./source/image/Friends_logo.png" alt="Friends logo">
-
-
 </p>
 
 
@@ -60,6 +58,7 @@
 - [Episode 1 - The One with Ross's New Girlfriend](/Season2/Episode1.md)
 - [Episode 2 - The One With the Breast Milk](/Season2/Episode2.md)
 - [Episode 3 - The One Where Heckles Dies](/Season2/Episode3.md)
+- [Episode 4 - The One With Phoebe's Husband](/Season2/Episode4.md)
 
 ### 关于
 
