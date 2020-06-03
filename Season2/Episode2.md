@@ -160,7 +160,7 @@ Rachel回答了一局`I love it.`
 Rachel: What a manipulatve bitch.
 ```
 
-- manipulate **vt.** 操作，操纵，控制
+- manipulate ***vt.*** 操作，操纵，控制
 
 ---
 
@@ -169,11 +169,11 @@ Rachel: What a manipulatve bitch.
 
 ## Vocabulary
 
-- resist **vt.** 拒绝，抵抗，阻止 ｜ **vi.** 反抗
-- sneaker **n.** 运动鞋
-- sneak **vi.** 溜， 溜走 ｜ **vt.** 偷偷拿 ｜ **n.** 打小报告的人
-- abuse **vt.** 虐待，滥用，辱骂
+- resist ***vt.*** 拒绝，抵抗，阻止 ｜ ***vi.*** 反抗
+- sneaker ***n.*** 运动鞋
+- sneak ***vi.*** 溜， 溜走 ｜ ***vt.*** 偷偷拿 ｜ ***n.*** 打小报告的人
+- abuse ***vt.*** 虐待，滥用，辱骂
 - one thing led to another... 一件接一件的事
-- intimidate **vt.** 恐吓，威胁
-- paranoid **adj.** 患妄想症的，多疑的，胡思乱想的
-- manipulate **vt.** 操作，操纵，控制
+- intimidate ***vt.*** 恐吓，威胁
+- paranoid ***adj.*** 患妄想症的，多疑的，胡思乱想的
+- manipulate ***vt.*** 操作，操纵，控制

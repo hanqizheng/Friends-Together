@@ -140,14 +140,14 @@ Phoebe真的是在每次别人争吵的时候都能说出让大家冷静的话
 
 ## Vocabulary
 
-- mucus **n.** 粘液
-- arrange **vt.** 整理，布置，安排
-- cab **n.** 出租车
-- addition **n.** 加法
-- additional **adj.** 额外的
-- uterus **n.** 子宫
-- resent **vt.** 对...感到憎恨
-- parachude **n.** 跳伞，降落伞
-- cramp **n.** 痉挛
-- ironic **adj.** 讽刺的，令人啼笑皆非的
-- vent **n.** 出口，通风口，火山口
+- mucus ***n.*** 粘液
+- arrange ***vt.*** 整理，布置，安排
+- cab ***n.*** 出租车
+- addition ***n.*** 加法
+- additional ***adj.*** 额外的
+- uterus ***n.*** 子宫
+- resent ***vt.*** 对...感到憎恨
+- parachude ***n.*** 跳伞，降落伞
+- cramp ***n.*** 痉挛
+- ironic ***adj.*** 讽刺的，令人啼笑皆非的
+- vent ***n.*** 出口，通风口，火山口

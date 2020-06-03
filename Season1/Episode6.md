@@ -220,12 +220,12 @@ Joey: You think? That's so nice!
 如果你真的喜欢一个人，你怎么可能舍得把她（他）交给另一个人？所以，一段relationship需要的，不光光是我们彼此的爱，还有无时无刻不想着如何维系这段感情的responsibility。我们要对彼此负责，这才能对得起彼此这段感情。
 
 ## Vocabulary
-- impending **adj.** 迫在眉睫的，即将发生的
-- doom **n.** 命运，厄运，死亡。主要指不利的，不好的。
-- exclamation **n.** 惊叹，呼喊，感叹。
-- exclamation point **n.** 感叹号。
-- violate **vt.** 违反，侵犯，冒犯
-- league **n.** 联盟， 社团 **v.** 使...结盟
-- detergent **n.** 洗涤剂，这个词绝对不是我第一次写出来了
-- kook **n.** <美口>怪人，怪胎，疯子同义还有`geek, nerd`
-- obligate **vt.** 使...有义务 **adj.** 有义务的
+- impending ***adj.*** 迫在眉睫的，即将发生的
+- doom ***n.*** 命运，厄运，死亡。主要指不利的，不好的。
+- exclamation ***n.*** 惊叹，呼喊，感叹。
+- exclamation point ***n.*** 感叹号。
+- violate ***vt.*** 违反，侵犯，冒犯
+- league ***n.*** 联盟， 社团 ***v.*** 使...结盟
+- detergent ***n.*** 洗涤剂，这个词绝对不是我第一次写出来了
+- kook ***n.*** <美口>怪人，怪胎，疯子同义还有`geek, nerd`
+- obligate ***vt.*** 使...有义务 ***adj.*** 有义务的

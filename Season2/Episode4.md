@@ -156,8 +156,8 @@ Rachel和Ross的relationship就是整个老友记的一条主线。
 
 ## Vocabulary
 
-- circus **n.** 马戏，喧闹的场面 
-- terrace **n.** 露台，阳台，梯田
-- virility **adj.** 男子气概的
-- hut **n.** 小屋，小木屋
-- degrade **adj.** 
+- circus ***n.*** 马戏，喧闹的场面 
+- terrace ***n.*** 露台，阳台，梯田
+- virility ***adj.*** 男子气概的
+- hut ***n.*** 小屋，小木屋
+- degrade ***adj.*** 

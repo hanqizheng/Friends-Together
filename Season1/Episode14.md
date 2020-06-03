@@ -134,8 +134,8 @@ Ross: Let's say you and I give it another shot.
 
 ## Vocabulary
 
-- pathetic **adj.** 可怜的， 严重不足的， 无用的
-- needy **adj.** 粘人的， 穷的(主要是粘人的)
-- vulnerable **adj.** 脆弱的， 地位不稳的， 易受伤的
-- megnet **n.** 磁铁
+- pathetic ***adj.*** 可怜的， 严重不足的， 无用的
+- needy ***adj.*** 粘人的， 穷的(主要是粘人的)
+- vulnerable ***adj.*** 脆弱的， 地位不稳的， 易受伤的
+- megnet ***n.*** 磁铁
 - chant **vt.&vi.** 吟唱， 念诵， 反复唱

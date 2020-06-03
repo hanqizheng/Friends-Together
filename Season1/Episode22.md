@@ -141,12 +141,12 @@ Monica: It was.
 
 ## Vocabulary
 
-- inadequte **adj.** 不充分的，贫乏的
-- subconscious **n.** 潜意识
-- pirate **n.** 海盗，盗版者，非法从业者
-- portion **n.** 一部分,一份
-- extinct **adj.** 灭绝的，不再活跃的
-- felon **n.** 重罪犯
-- saucy **adj.** 风骚的， 轻佻的， 情色画面， 鲁莽的
-- amuse **vt.** 逗...笑， 被...逗笑
-- rumor **n.** 传言， 谣言
+- inadequte ***adj.*** 不充分的，贫乏的
+- subconscious ***n.*** 潜意识
+- pirate ***n.*** 海盗，盗版者，非法从业者
+- portion ***n.*** 一部分,一份
+- extinct ***adj.*** 灭绝的，不再活跃的
+- felon ***n.*** 重罪犯
+- saucy ***adj.*** 风骚的， 轻佻的， 情色画面， 鲁莽的
+- amuse ***vt.*** 逗...笑， 被...逗笑
+- rumor ***n.*** 传言， 谣言

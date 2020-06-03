@@ -105,7 +105,7 @@ Monica: Oh please, This is such a lame excuse.
   - `happen to do sth. / just happen to do sth.`表示`碰巧做某事`
   - 那么There be表示`有`所以结合起来就是`碰巧有...`，在这里是一个否定形式`碰巧没有`
   - 可以看到Joey也用了`just happen to do sth.`句式结合`know`表示`碰巧不知道...`
-- `lame` **adj.** 意为`缺乏说服力的，烂的，逊的`。一般还有个更常用的就是`suck`。
+- `lame` ***adj.*** 意为`缺乏说服力的，烂的，逊的`。一般还有个更常用的就是`suck`。
 
 ---
 
@@ -291,7 +291,7 @@ Rachel画的这个一眼难尽😂，而且答案还那么难众人直接抢答
 ## Vocabulary
 
 - proofread **vt. & vi.** 校对
-- lame **adj.** 缺乏说服力的,瘸腿的 **vt.** 使...瘸腿
-- cave **n.** 洞穴 **v.** 投降
-- dime **n.** 美国的10分硬币， 少量的钱
-- fly **n.** 苍蝇， *裤子拉链*
+- lame ***adj.*** 缺乏说服力的,瘸腿的 ***vt.*** 使...瘸腿
+- cave ***n.*** 洞穴 ***v.*** 投降
+- dime ***n.*** 美国的10分硬币， 少量的钱
+- fly ***n.*** 苍蝇， *裤子拉链*

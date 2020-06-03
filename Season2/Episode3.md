@@ -179,18 +179,18 @@ Monica她们说的话也挺有道理的
 
 ## Vocabulary
 
-- nostril **n.** 鼻孔
-- sneeze **vi.** 打喷嚏
-- lean **adj.** 瘦的， 不景气的， 效率高的 ｜ **vt.** 使...倾斜
-- superficial **adj.** 外表的，粗略的
-- insignificant **adj.** 不重要的
-- stomp **vi.** 跺脚，重踏
-- disturb **vt.** 扰乱， 打扰
-- broom **n.** 扫帚
-- scoff **vi.** 嘲弄，嘲笑
-- evolve **vi.** 进化 ｜ **vt.** 使...进化
-- comprehend **vt.** 理解，包括
-- alergic **adj.** 过敏的
-- atom **n.** 原子
-- arrogant **adj.** 傲慢的
-- cave **n.** 洞穴， 屈服
+- nostril ***n.*** 鼻孔
+- sneeze ***vi.*** 打喷嚏
+- lean ***adj.*** 瘦的， 不景气的， 效率高的 ｜ ***vt.*** 使...倾斜
+- superficial ***adj.*** 外表的，粗略的
+- insignificant ***adj.*** 不重要的
+- stomp ***vi.*** 跺脚，重踏
+- disturb ***vt.*** 扰乱， 打扰
+- broom ***n.*** 扫帚
+- scoff ***vi.*** 嘲弄，嘲笑
+- evolve ***vi.*** 进化 ｜ ***vt.*** 使...进化
+- comprehend ***vt.*** 理解，包括
+- alergic ***adj.*** 过敏的
+- atom ***n.*** 原子
+- arrogant ***adj.*** 傲慢的
+- cave ***n.*** 洞穴， 屈服

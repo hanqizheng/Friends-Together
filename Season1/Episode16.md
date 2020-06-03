@@ -161,6 +161,6 @@ Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 
 # Vocabulary
 
-- apron **n.** 围裙
-- crossword **n.** 拼字游戏
-- remote **adj.** 遥远的，远程的 ｜ **n.** 遥控器
+- apron ***n.*** 围裙
+- crossword ***n.*** 拼字游戏
+- remote ***adj.*** 遥远的，远程的 ｜ ***n.*** 遥控器

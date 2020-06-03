@@ -188,8 +188,8 @@ Chandler: No it's not! It's small. It's tiny. It's petite. It's wee.
 ```
 
 - 跟着Chandler的狡辩来学几个`小`, small和tiny就不说了
-  - petite **adj.** 娇小的
-  - wee **adj.** 很小的 ｜ **vi.** 尿尿
+  - petite ***adj.*** 娇小的
+  - wee ***adj.*** 很小的 ｜ ***vi.*** 尿尿
  
 ---
 
@@ -275,13 +275,13 @@ Rachel在机场看到Ross和他的新女友会怎么做呢？会跟Ross说明自
 
 ## Vocabulary
 
-- nod **n.** 点头，同意，对...的认可 ｜ **vt. & vi.** 点头
-- fertility **n.** 生育能力的，生育，繁殖力， 肥沃
-- conduct **n.** 行为，处理，实施 | **vt.** 为...做向导， 处理，安排
-- itinerary **n.** 旅行日程
-- petite **adj.** 娇小的
-- wee **adj.** 很小的 ｜ **vi.** 尿尿
-- mute **adj.** 沉默的，缄默的，哑的，无声的
+- nod ***n.*** 点头，同意，对...的认可 ｜ **vt. & vi.** 点头
+- fertility ***n.*** 生育能力的，生育，繁殖力， 肥沃
+- conduct ***n.*** 行为，处理，实施 | ***vt.*** 为...做向导， 处理，安排
+- itinerary ***n.*** 旅行日程
+- petite ***adj.*** 娇小的
+- wee ***adj.*** 很小的 ｜ ***vi.*** 尿尿
+- mute ***adj.*** 沉默的，缄默的，哑的，无声的
 
 
 ## 小插曲

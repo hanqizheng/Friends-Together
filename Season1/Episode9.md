@@ -335,15 +335,15 @@ what Mario isn't telling you....
 这集真的太好看了！！
 
 ## Vocabulary
-- faculty **n.** 能力，才能，全体教职员
-- familiar **adj.** 熟悉的，通晓的 **n.** 常客，密友
-- concept **n.**  概念，观点
-- magnificent **adj.** 壮丽的，伟大的，高尚的，华丽的
-- vivid **adj.** 生动的，清晰的（多指记忆），丰富的（多指想象力）
-- infect **vt.** 使受影响，感染，传染
-- smirky **adj.** 假笑的，傻笑的，小人得志的笑的
-- lousy **adj.** 讨厌的，污秽的
-- crap **n.** （算句脏话了）表示艹，废话的意思
+- faculty ***n.*** 能力，才能，全体教职员
+- familiar ***adj.*** 熟悉的，通晓的 ***n.*** 常客，密友
+- concept ***n.***  概念，观点
+- magnificent ***adj.*** 壮丽的，伟大的，高尚的，华丽的
+- vivid ***adj.*** 生动的，清晰的（多指记忆），丰富的（多指想象力）
+- infect ***vt.*** 使受影响，感染，传染
+- smirky ***adj.*** 假笑的，傻笑的，小人得志的笑的
+- lousy ***adj.*** 讨厌的，污秽的
+- crap ***n.*** （算句脏话了）表示艹，废话的意思
 
 
 

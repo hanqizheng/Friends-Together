@@ -255,6 +255,6 @@ Ross: You know how the nurse said the nana had passed?
 看到这段对话其实Monica和妈妈关系不好是有原因的，她的妈妈和奶奶关系就不好，和她俩如出一辙。其实，最终我们都能看出来，她的妈妈像她奶奶，她像她妈妈。
 
 ## Vocabulary
-- predict **v.** 预测
+- predict ***v.*** 预测
 - vague **n. & adj.** 弥漫，模糊，弥漫的，模糊的
-- gorgeous **adj.** 华丽的，美丽的。
+- gorgeous ***adj.*** 华丽的，美丽的。

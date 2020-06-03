@@ -381,12 +381,12 @@ Ro: You know, you probably didn't know this,
 还有一些很细碎的需要你仔细阅读。
 
 ### vocabulary
-- hump **n.** 驼背
-- cleanse **vt.** 净化， 使...清洁
-- fixate **v.** 视线移向， 注视
-- abuse **n.** 滥用， 恶习， 恶言 **vt.** 辱骂，滥用
-- sophisticated **adj.** 复杂的，精致的，富有经验的
-- metaphor **n.** 隐喻，比喻
+- hump ***n.*** 驼背
+- cleanse ***vt.*** 净化， 使...清洁
+- fixate ***v.*** 视线移向， 注视
+- abuse ***n.*** 滥用， 恶习， 恶言 ***vt.*** 辱骂，滥用
+- sophisticated ***adj.*** 复杂的，精致的，富有经验的
+- metaphor ***n.*** 隐喻，比喻
 - drift apart 疏远（指关系）
 
 ### 经典台词

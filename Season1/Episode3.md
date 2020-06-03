@@ -310,10 +310,10 @@ Rachel: The hair comes out and the gloves come off?
   `mean`还有一个形容词的意思`刻薄的，残忍的`。比如`Why are you so mean?`这样的用法。当然，这么说一般是女生，男生说这句话会显得有点娘。。。
 
 ### vocabulary
-- lossely **adv.** 松散地， 蓬松地，轻轻地
-- minion **n.** (贬义)奴婢，仆从，走狗
-- slim **adj.** 细长的，微小的
-- bash **vt.** 痛击，猛击，重击
-- cushion **n.** 垫子，起保护作用的事物 **vt.** 使免受伤害
-- kunckle **n.** 指关节， 膝关节
-- gloves **n.** 拳击手套， 棒球手套，手套
+- lossely ***adv.*** 松散地， 蓬松地，轻轻地
+- minion ***n.*** (贬义)奴婢，仆从，走狗
+- slim ***adj.*** 细长的，微小的
+- bash ***vt.*** 痛击，猛击，重击
+- cushion ***n.*** 垫子，起保护作用的事物 ***vt.*** 使免受伤害
+- kunckle ***n.*** 指关节， 膝关节
+- gloves ***n.*** 拳击手套， 棒球手套，手套

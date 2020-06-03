@@ -187,13 +187,13 @@ Chandler一脸懵逼。然后开始疯狂喝咖啡，可以看到桌子上有好
 
 ## Vocabulary
 
-- maneuver **v.** 策略，演习，操纵
+- maneuver ***v.*** 策略，演习，操纵
 - bam **n.&v.** 欺骗，哄骗，迷惑
-- scrunch **v.** 蜷缩，压，挤压
-- convertible **adj.** 可变的，可变换的 **n.** 敞篷车
-- detergent **n.** 洗涤剂
-- brutal **adj.** 残忍的，野蛮的，不讲理的
-- freakish **adj.** 异想天开的，朝三暮四的
-- supreme **adj.** 最高的，至高无上的，最重要的。还记得当时傻傻的把这个词认成super me，尬
+- scrunch ***v.*** 蜷缩，压，挤压
+- convertible ***adj.*** 可变的，可变换的 ***n.*** 敞篷车
+- detergent ***n.*** 洗涤剂
+- brutal ***adj.*** 残忍的，野蛮的，不讲理的
+- freakish ***adj.*** 异想天开的，朝三暮四的
+- supreme ***adj.*** 最高的，至高无上的，最重要的。还记得当时傻傻的把这个词认成super me，尬
 
 

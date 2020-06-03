@@ -90,8 +90,8 @@ Joey: Probobaly kill myself.
 Monica: ?????
 ```
 - Joey这里把`omnipotent`这个词听成了`impotent`
-  * `omnipotent`, **adj.** 全能的，权力无限的。
-  * `impotent`, **adj.**, 无力的，虚弱的，性无能，阳痿
+  * `omnipotent`, ***adj.*** 全能的，权力无限的。
+  * `impotent`, ***adj.***, 无力的，虚弱的，性无能，阳痿
 
 Joey真的是傻的可爱额。。。。
 
@@ -111,7 +111,7 @@ Phoebe: I had no sleep last night. My grandmother has a new boyfriend
         And deaf!!
 ```
 惊呆了。。。grandmother还New boyfriend，是麦奶吗？
-- `insecure`, **adj.** 不安全的，不稳定的，摇摇晃晃的。这里insecure用来形容他们两位老人家就是说他俩在床上摇呀摇，嗯，画面出来了吧？所以，insecure是一个很传神的词呢。
+- `insecure`, ***adj.*** 不安全的，不稳定的，摇摇晃晃的。这里insecure用来形容他们两位老人家就是说他俩在床上摇呀摇，嗯，画面出来了吧？所以，insecure是一个很传神的词呢。
 
 ---
 
@@ -254,8 +254,8 @@ Rachel: Thanks, but I'm Okay, really.
 不是为了打自己的脸，是人本来就是复杂的集合体，**我们需要知道我们想要什么。但是这还远远不够**。
 
 ## vocabulary
-- omnipotent, **adj.** 全能的，权力无限的。
-- impotent, **adj.**, 无力的，虚弱的，性无能，阳痿
-- apron, **n.** 围裙
-- flupie, **adj.** 混乱的，是个俚语
-- insecure, **adj.** 不安全的，不稳定的，摇摇晃晃的
+- omnipotent, ***adj.*** 全能的，权力无限的。
+- impotent, ***adj.***, 无力的，虚弱的，性无能，阳痿
+- apron, ***n.*** 围裙
+- flupie, ***adj.*** 混乱的，是个俚语
+- insecure, ***adj.*** 不安全的，不稳定的，摇摇晃晃的

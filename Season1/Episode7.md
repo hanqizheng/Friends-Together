@@ -235,6 +235,6 @@ Ross的表白之路，也真是坎坷。
 
 ## Vocabulary
 
-- vestibule **n.** 门厅，前厅
-- atrium **n.** 心房，中庭，天井
-- loathe **vt.** 憎恨，厌恶
+- vestibule ***n.*** 门厅，前厅
+- atrium ***n.*** 心房，中庭，天井
+- loathe ***vt.*** 憎恨，厌恶

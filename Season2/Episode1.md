@@ -143,14 +143,14 @@ Chandler: At least as long as I have the pants.
 
 ## Vocabulary
 
-- baggage **n.** 行李
-- claim **n.** 要求...的所有权, 认领，声称
+- baggage ***n.*** 行李
+- claim ***n.*** 要求...的所有权, 认领，声称
 - baggage claim 认领行李
-- crotch **n.** 胯部， 裤裆
-- anal **adj.** 肛门的，极度刻板的
-- spare **adj.** 闲置的，不用的，备用的，空闲的 ｜ **n.** 备用品 ｜ **vt.** 拿得出，花得起
-- resistance **n.** 阻碍， 抵抗，电阻。
-- palpable **adj.** 可触摸到的，明显的，显而易见的，可察觉的。
-- tension **n.** 紧张关系，紧张，张力 ｜ **vt.** 绷紧
-- despite **prep.** 尽管
-- crack **n.** 裂缝， 漏洞， 噼啪声 ｜ **vt.** 使...裂开，砸开。
+- crotch ***n.*** 胯部， 裤裆
+- anal ***adj.*** 肛门的，极度刻板的
+- spare ***adj.*** 闲置的，不用的，备用的，空闲的 ｜ ***n.*** 备用品 ｜ ***vt.*** 拿得出，花得起
+- resistance ***n.*** 阻碍， 抵抗，电阻。
+- palpable ***adj.*** 可触摸到的，明显的，显而易见的，可察觉的。
+- tension ***n.*** 紧张关系，紧张，张力 ｜ ***vt.*** 绷紧
+- despite ***prep.*** 尽管
+- crack ***n.*** 裂缝， 漏洞， 噼啪声 ｜ ***vt.*** 使...裂开，砸开。

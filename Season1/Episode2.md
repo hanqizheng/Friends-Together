@@ -270,12 +270,12 @@ Barry表示他真的很感谢Rachel，因为之前他们在一起的时候他并
 ### vocabulary
 
 - cave people 原始人
-- carpet **n.** 地毯，毛毯
-- paranoid **adj.** 属于偏执狂的，妄想狂的
-- fluffy **adj.** 松软的，毛茸茸的，轻柔的，无聊的
-- ammunition **n.** 弹药，军火
-- chaotic **adj.** 混沌的，一片混乱的
-- twirl **vt.** 快速转动 **n.** 扭动，旋转
-- stomp **n.** 跺脚，重踩
-- dread **vt.** 害怕， 担心 **n.** 恐惧 畏惧 **adj.** 可怕的
-- terrific **adj.** 极好的，异乎寻常的，了不起的
+- carpet ***n.*** 地毯，毛毯
+- paranoid ***adj.*** 属于偏执狂的，妄想狂的
+- fluffy ***adj.*** 松软的，毛茸茸的，轻柔的，无聊的
+- ammunition ***n.*** 弹药，军火
+- chaotic ***adj.*** 混沌的，一片混乱的
+- twirl ***vt.*** 快速转动 ***n.*** 扭动，旋转
+- stomp ***n.*** 跺脚，重踩
+- dread ***vt.*** 害怕， 担心 ***n.*** 恐惧 畏惧 ***adj.*** 可怕的
+- terrific ***adj.*** 极好的，异乎寻常的，了不起的
