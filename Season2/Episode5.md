@@ -13,13 +13,13 @@
 
 
 <p align="center">
-<img width="800" src="./../source/image/season2/episode4/intro.jpg" alt="Friends logo">
+<img width="800" src="./../source/image/season2/episode5/12.56.jpg" alt="Friends logo">
 </p>
 
 ## 概要
 
 - Chandler接到一个陌生女子的电话，对方是打给前男友的想复合，Chandler就假装成被前男友放鸽子之后碰到的好心路人，发生了一系列事...
-- 因为Ross过生日所以众人都要给Ross请客，送礼物。结果引发了一些争执。
+- 因为Ross过生日所以众人都要给Ross请客，送礼物。结果引发了一系列争执。
 
 
 ## 正文
@@ -42,6 +42,9 @@ Chandler: So eh, What have you been up to?
   - 我给出来几种回答，可以看到其实都是形容自己过的怎么样的。根据自己具体的情况选择不同的描述方法。**回答是非常灵活的。**
 
 ---
+
+![](./../source/image/season2/episode5/12.51.jpg)
+
 
 ![](./../source/image/season2/episode5/10.38.jpg)
 
@@ -67,11 +70,16 @@ Chandler: How about tomorrow afternoon?
 
 Chandler提出了要给Ross过生日，所以大家没人要掏$62
 
+![](./../source/image/season2/episode5/12.49.jpg)
+
 可以看出Phoebe显然是有点觉得太贵了
 
+![](./../source/image/season2/episode5/35.23.jpg)
 
 
 然后Joey和Rachel随后也表达了同样的感受
+
+![](./../source/image/season2/episode5/39.02.jpg)
 
 
 这一集也是让Friends更真实的一集，六个人不可能就像童话一样关系好的不得了，每天开开心心的。
@@ -94,37 +102,55 @@ Ross是一家博物馆里的职工
 
 他们三个是有固定工作且都是收入不错的工作的。
 
+![](./../source/image/season2/episode5/55.11.jpg)
 
 
-其实看这集自己挺感触了，就说句比较扎心但实在的话`自己努力不为别的至少朋友们出去玩你不会舍不得花钱，不要想吃一顿肯德基却嫌贵舍不得吃。`
-
+其实看这集挺感触的，就说句比较扎心但实在的话`自己努力不为别的至少朋友们出去玩你不会舍不得花钱，不要想吃一顿肯德基却嫌贵都舍不得吃。`
 
 
 ---
 
 这一集就把他们之间的这种矛盾突出的很鲜明。
 
+![](./../source/image/season2/episode5/02.17.jpg)
+
+
 来到饭店的他们看着菜单上的菜都舍不得点
 
-可以看到Rachel点的是佐餐，有点类似于我吃黄焖鸡米饭只点了豆腐皮和金针菇却没点黄焖鸡和米饭。
+![](./../source/image/season2/episode5/05.11.jpg)
+
+![](./../source/image/season2/episode5/10.05.jpg)
+
+- 我早就想说`look`这个词了。**look在口语里是`听着`的意思**。我说完了
+- 这里那个黄瓜汤是那种黄瓜汁做的，不是黄瓜切片的那种黄瓜鸡蛋汤，老美这美食还是很`野生`的，中华名族的美食文化确实独一档啊。
+
+---
+
+![](./../source/image/season2/episode5/07.56.jpg)
+
+- 可以看到Rachel点的是佐餐，有点类似于我吃黄焖鸡米饭只点了豆腐皮和金针菇却没点黄焖鸡和米饭。
 
 Joey和Phoebe在点餐的时候也是显得非常的`穷`。这里显然是带了一些夸张手法的表现，但是可以跟Monica他们三个人点餐形成鲜明的对比，这边是犹豫，心疼，而另一边则是痛快和完全没有把点餐当成一种痛苦。
 
 
 镜头转到吃完饭算账
 
+![](./../source/image/season2/episode5/16.24.jpg)
+
+- `加： plus | 减： minus | 乘： multiply | 除： divide`
+
 
 可以看出来这顿饭加上小费(一般是10% - 15%，高档的饭店甚至能到20% - 25%，经美国留学同学核实)一共花了$168
 
+![](./../source/image/season2/episode5/36.09.jpg)
 
 
 每个人$33.5，再加上前面给Ross过生日的$62，一个人一天就花出去近100美元。这对他们仨肯定是接受不了的。
 
+![](./../source/image/season2/episode5/48.54.jpg)
 
-这一段餐后的对话是把矛盾突出的非常明显了。
 
-
-来一个小插曲就是近几年比较肆虐的埃博拉病毒原来在95年就已经爆发过了。
+这一段餐后的对话是把矛盾突出的非常明显。
 
 
 ---
@@ -133,7 +159,43 @@ Monica他们三人为了补偿上次吃饭的尴尬结局就送给了Rachel他�
 
 还送给他们演唱会的门票(这样他们就不用掏那$62了)
 
-其实
+![](./../source/image/season2/episode5/50.08.jpg)
+
+- 请客的时候常说的一句话就是`It's all on me!`都算我头上。
+
+---
+
+
+站在Monica三人这边肯定是因为上次吃饭的不开心，觉得是自己没考虑周全，才想做出补偿。
+
+但是对于Rachel三人这边，当然是感觉被施舍，感觉更卑微了。
+
+![](./../source/image/season2/episode5/50.46.jpg)
+
+![](./../source/image/season2/episode5/56.32.jpg)
+
+
+其实看到这里就想插播一下小兰在哪一集(我记得是用钱买不来的友情)里说出的话
+
+![](./../source/image/season2/episode5/51.51.jpg)
+
+
+
+其实老友记真的是对朋友最好的定义了。但需要仔细品一下。
+
+不同的人都能品出一些不同的观点来。
+
+但是类似这种比较大的重要的块，比如钱之类的，应该差不多。能学到很多道理。
+
+---
+
+```
+Jade(the phone girl): Hey Bob, I'm probably way out of line here.
+```
+
+- `做的太过分，做的过火`比较地道的表达`way out of line`。其实咱们中文也是这么说的吧，我们做的越界了。
+
+
 
 
 ## Vocabulary
@@ -143,3 +205,4 @@ Monica他们三人为了补偿上次吃饭的尴尬结局就送给了Rachel他�
 - steep ***adj.*** 陡峭的
 - convention ***n.*** 大会，习俗，惯例，公约
 - conventional ***adj.*** 符合习俗的，传统的，常规的
+- kickback ***n.*** 回扣
