@@ -59,7 +59,7 @@
 - [Episode 2 - The One With the Breast Milk](/Season2/Episode2.md)
 - [Episode 3 - The One Where Heckles Dies](/Season2/Episode3.md)
 - [Episode 4 - The One With Phoebe's Husband](/Season2/Episode4.md)
-- [Episode 5 - The One With Five Steaks and an Eggplant](/Season2/Episode4.md)
+- [Episode 5 - The One With Five Steaks and an Eggplant](/Season2/Episode5.md)
 
 ### 关于
 
