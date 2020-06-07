@@ -38,7 +38,7 @@
 - [Episode 6 - The One with the Butt](/Season1/Episode6.md)
 - [Episode 7 - The One with the Blackout](/Season1/Episode7.md)
 - [Episode 8 - The One Where Nana Dies Twice](/Season1/Episode8.md)
-- [Episode 9 - The One Where Underdog Gets Away](/Season1/Episode9.md)
+- [Episode 9 - The One Where Underdog Gets Away](/Season1/Episode9.md) [ 推荐 ]
 - [Episode 10 - The One with the Monkey](/Season1/Episode10.md)
 - [Episode 11 - The One with Mrs. Bing](/Season1/Episode11.md)
 - [Episode 12 - The One with the Dozen Lasagnas](/Season1/Episode12.md)
@@ -47,10 +47,10 @@
 - [Episode 15 - The One with the Stoned Guy](/Season1/Episode15.md)
 - [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md)
 - [Episode 17 - The One with Two Parts: Part 2](/Season1/Episode17.md)
-- [Episode 18 - The One with All the Poker](/Season1/Episode18.md)
+- [Episode 18 - The One with All the Poker](/Season1/Episode18.md) [ 推荐 ]
 - [Episode 19 - The One Where the Monkey Gets Away](/Season1/Episode19.md)
 - [Episode 20 - The One With the Evil Orthodontist](/Season1/Episode20.md)
-- [Episode 21 - The One with the Fake Monica](/Season1/Episode21.md)
+- [Episode 21 - The One with the Fake Monica](/Season1/Episode21.md) [ 推荐 ]
 - [Episode 22 - The One With the Ick Factor](/Season1/Episode22.md)
 - [Episode 23 - The One With the Birth](/Season1/Episode23.md)
 - [Episode 24 - The One Where Rachel Finds Out](/Season1/Episode24.md)
@@ -61,7 +61,7 @@
 - [Episode 2 - The One With the Breast Milk](/Season2/Episode2.md)
 - [Episode 3 - The One Where Heckles Dies](/Season2/Episode3.md)
 - [Episode 4 - The One With Phoebe's Husband](/Season2/Episode4.md)
-- [Episode 5 - The One With Five Steaks and an Eggplant](/Season2/Episode5.md)
+- [Episode 5 - The One With Five Steaks and an Eggplant](/Season2/Episode5.md) [ 推荐 ]
 
 ### 关于内容
 
