@@ -10,7 +10,7 @@
 > 
 >      希望可以Star支持一下😄
 >
-> 
+>      本集所有的补充内容均来自B站up主Friends101
 
 ## Key word: Friendship
 
@@ -123,9 +123,15 @@ Chandler: If you tried that on my birthday, you'd be staring at the business end
 
 ![](./../source/image/season1/episode17/24.30.jpg)
 
----
+### 补充及修改
 
-两位Cute doctor约了Rachel和Monica然后Rachel竟然答应了，要知道这时候Rachel以Monica的身份使用了医疗保险。
+这里George Clooney和另外一位医生Noah Wyle是1994年NBC首播的医学剧《ER》中的角色分别饰演Dr.Doug Ross和 DR.John Carter
+
+这部《ER》是美国电视史上最长寿的黄金时段医学剧
+
+据说《实习医生格雷》已经超越了《ER》的成就(未证实)
+ 
+ctor约了Rachel和Monica然后Rachel竟然答应了，要知道这时候Rachel以Monica的身份使用了医疗保险。
 
 ![](./../source/image/season1/episode17/25.43.jpg)
 
@@ -217,6 +223,16 @@ Marcel在医院醒来的那一刻抓住了Ross的手，那一刻Ross对即将成
 在最后的短剧中全是西班牙语，我当时以为是自己资源的问题，可能有一段的配音和字幕都混了。看了4遍我才我先原来这是在呼应Marcel之前把Monica家电视调成了西班牙语的情节。
 
 ![](./../source/image/season1/episode17/33.13.jpg)
+
+## 补充
+
+可以看到电视上的SAP字样，我在一开始以为是Spanish的缩写，其实并不是。
+
+SAP = Second Audio Program 第二声道广播功能，一般就是另一种语言的节目
+
+在美国，这个第二声道的广播功能通常就是国内第二大语言`西班牙语`
+
+所以SAP被戏称为Spanish Audio Program
 
 
 
