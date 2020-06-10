@@ -170,6 +170,22 @@ Ross: It dosen't matter! You don't dig your pen in the company ink.
 ```
 - 这句话其实对应着一句中国的俗语`兔子不吃窝边草。`
 
+
+---
+
+### 补充
+
+```
+Chandler's Boss: The Annual Net Usage Statistics are in.
+
+                 It's pretty ugly.
+
+                 We haven't see an ANUS this bad since the 70's.
+```
+- 这里Chandler的Boss说到公司的`Annual Net Usage Statistics`，应该就是某种年度数据统计，但是这里给出了这个统计的缩写`ANUS`
+- `ANUS`在`美语`里是`肛门`的意思。
+
+
 ---
 
 ### 补充
