@@ -133,6 +133,7 @@ Marcel依旧根本不鸟Ross，各种捣蛋。
 
 - `whether...or...`意为`不管...还是...`这里要注意是有就近原则的，也就是句子中的动词形式必须和`or`后面的主语保持一致。
 - `in a row`表示`连续`
+- 除了上面提到的`in a row`，还有比较地道的表达`连续`的意思的有`one after another`.或者`3 days in a row === 3 days running === 3 days consecutively === 3 consecutive days`
 
 ---
 Pheobe和Ursula关系不好也是老友记中很多梗的一个前提，为什么会关系不好呢？因为她俩是姐妹，而Phoebe有一种一直活在姐姐阴影下的感觉。后来Ursula还抢Phoebe的男朋友，然后和那个男的分手，然后导致青梅竹马的男朋友再也不理Phoebe因为只要他看到Phoebe就想到了伤他的Ursula。
