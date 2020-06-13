@@ -147,6 +147,8 @@ Pheobe和Ursula关系不好也是老友记中很多梗的一个前提，为什�
 ![](./../source/image/season1/episode16/36.06.jpg)
 ![](./../source/image/season1/episode16/36.15.jpg)
 
+- `What else is new?`这是一句非常非常常用的口语表达，表示说这句话的人，对听到的事一点都不感到惊讶。其实用咱们经常说的一句话翻译过来非常地道。`就这？`
+
 ---
 
 转到助产课这边，气氛逐渐尴尬。
