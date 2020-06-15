@@ -45,8 +45,8 @@
 - [Episode 13 - The One with the Boobies](/Season1/Episode13.md)
 - [Episode 14 - The One with the Candy Hearts](/Season1/Episode14.md)
 - [Episode 15 - The One with the Stoned Guy](/Season1/Episode15.md)
-- [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md)
-- [Episode 17 - The One with Two Parts: Part 2](/Season1/Episode17.md)
+- [Episode 16 - The One with Two Parts: Part 1](/Season1/Episode16.md) [ 更新 ]
+- [Episode 17 - The One with Two Parts: Part 2](/Season1/Episode17.md) [ 更新 ]
 - [Episode 18 - The One with All the Poker](/Season1/Episode18.md) [ 推荐 ]
 - [Episode 19 - The One Where the Monkey Gets Away](/Season1/Episode19.md)
 - [Episode 20 - The One With the Evil Orthodontist](/Season1/Episode20.md)
