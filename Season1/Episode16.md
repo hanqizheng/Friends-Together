@@ -14,6 +14,23 @@
 
 ## Key word:  *Ursula*
 
+## 补充
+
+Episode 16 & Episode 17的名字是`The One with Two Parts`
+
+所以这两集的人物都是俩俩成对出现的。
+
+Phoebe & Ursula 这对双胞胎姐妹
+
+Monica & Rachel 互换身份
+
+Ross & Susan 一同去参加生育课
+
+Jamie & Fran 是错认Phoebe为Ursula的两个顾客，其实有联动。[点这里](#Fran)
+
+ ![](./../source/image/season1/episode16/30.44.jpg)
+
+
 ## 概要
 
 - Chandler和Joey在一家餐馆遇到了Phoebe的孪生姐姐Ursula，Joey想和Ursula交往，但这让Phoebe很伤心。
@@ -149,6 +166,11 @@ Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 ![](./../source/image/season1/episode16/53.48.jpg)
 ![](./../source/image/season1/episode16/54.21.jpg)
 ![](./../source/image/season1/episode16/54.36.jpg)
+
+---
+
+<span id="fran"></span>
+
 
 ---
 
