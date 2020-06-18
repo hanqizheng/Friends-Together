@@ -10,7 +10,7 @@
 > 
 >      希望可以Star支持一下😄
 >
-> 
+>      本集所有的补充内容均来自B站up主Friends101
 
 ## Key word:  *Ursula*
 
@@ -18,7 +18,9 @@
 
 Episode 16 & Episode 17的名字是`The One with Two Parts`
 
-所以这两集的人物都是俩俩成对出现的。
+所以这两集的人物都是俩俩成对出现的
+
+**会有很多和其他经典美剧的梦幻联动**
 
 Phoebe & Ursula 这对双胞胎姐妹
 
@@ -27,8 +29,6 @@ Monica & Rachel 互换身份
 Ross & Susan 一同去参加生育课
 
 Jamie & Fran 是错认Phoebe为Ursula的两个顾客，其实有联动。[点这里](#Fran)
-
- ![](./../source/image/season1/episode16/30.44.jpg)
 
 
 ## 概要
@@ -104,6 +104,24 @@ Chandler 和 Joey以为是Phoebe所以就很疑惑为什么Phoebe在这里当服
 - 要是换成`Why`引导则这句话变成`Why are you working here?`
 - `start over`表示`从头来过`。比如很多情侣闹分手然后和好的时候男生就可以问`Can we start over?`
 
+### 这里补充一点
+
+Ursula Buffay 是90年代经典的美剧之一《Made about you》中在Riff餐厅一个经常忘记顾客要点什么的服务员。
+
+这里看老友记中的细节，Chandler和Joey正是在Riff餐厅用餐。所以这也算是老友记和《Made about you》一个联动。
+
+![](./../source/image/season1/episode16/41.48.jpg)
+
+
+<span id="fran"></span>
+
+同时这个和《Made about you》的联动也带来了这部剧的女主角Jamie和她的好朋友Fran。
+
+ ![](./../source/image/season1/episode16/30.44.jpg)
+
+ 当时她们出场的欢呼声我以为是某个有名的女演员客串，原来还有这么大的一个联动在里面。
+
+
 ---
 
 ```
@@ -154,6 +172,26 @@ Ross: It dosen't matter! You don't dig your pen in the company ink.
 
 ---
 
+### 补充
+
+这里Marcel把Monica的电视调到了西语频道
+
+电视里正在演出的是ABC在1989 - 1998年播出的以非洲裔美国人为主演的喜剧《Family Matters》
+
+![](./../source/image/season1/episode16/50.41.jpg)
+
+图中左边这个黑人小男孩就是该电视剧中一个小角色Urkel，后来成为了主角中的主角。剧中的Urkel是一个典型的书呆子
+
+![](./../source/image/season1/episode16/55.10.jpg)
+
+顺便说一句老友记楼顶的布景和这部剧用的是一个吗？😂也太像了。
+
+而Urkel在后续的剧集通过能够自由操控改变自己的基因，拥有了双重人格，一个很酷，追到了喜欢的女生，一个就是原来的自己，一个书呆子。**而这种双重人格也符合这集的标题：Two parts**。
+
+可以看出来老友记的细节真的是太好。
+
+---
+
 Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 
 
@@ -166,10 +204,6 @@ Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 ![](./../source/image/season1/episode16/53.48.jpg)
 ![](./../source/image/season1/episode16/54.21.jpg)
 ![](./../source/image/season1/episode16/54.36.jpg)
-
----
-
-<span id="fran"></span>
 
 
 ---
