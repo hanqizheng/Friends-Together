@@ -192,6 +192,27 @@ Ross: It dosen't matter! You don't dig your pen in the company ink.
 
 ---
 
+Joey过来请求Phoebe允许自己和Ursula约会，作为好朋友的Phoebe同意也不是不同意也不行，最后只能忍着自己的感受同意了，因为她觉得不能因为自己讨厌Ursula就连带Joey一起讨厌。
+
+Joey走后Ross询问Phoebe Are you okay？
+
+### 补充
+
+然后就又回到电视上，这时候出现的是《Laverne & Shirley》 
+
+![](./../source/image/season1/episode16/05.11.jpg)
+
+《Laverne & Shirley》是ABC 70年代末的一部喜剧，衍生自70年代的神剧《Happy Days》
+
+主角就是两位好友兼舍友Laverne和Shirley
+
+也和本集的主题Two parts呼应
+
+![](./../source/image/season1/episode16/09.47.jpg)
+
+
+---
+
 Ross跟Susan这对欢喜冤家怎么能少了梗呢，真是笑死我了。
 
 
