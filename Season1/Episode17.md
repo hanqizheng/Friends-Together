@@ -128,11 +128,13 @@ Chandler: If you tried that on my birthday, you'd be staring at the business end
 
 这里George Clooney和另外一位医生Noah Wyle是1994年NBC首播的医学剧《ER》中的角色分别饰演Dr.Doug Ross和 DR.John Carter
 
+![](./../source/image/season1/episode17/19.42.jpg)
+
 这部《ER》是美国电视史上最长寿的黄金时段医学剧
 
 据说《实习医生格雷》已经超越了《ER》的成就(未证实)
  
-ctor约了Rachel和Monica然后Rachel竟然答应了，要知道这时候Rachel以Monica的身份使用了医疗保险。
+Doctor约了Rachel和Monica然后Rachel竟然答应了，要知道这时候Rachel以Monica的身份使用了医疗保险。
 
 ![](./../source/image/season1/episode17/25.43.jpg)
 
