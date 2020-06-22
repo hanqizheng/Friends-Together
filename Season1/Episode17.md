@@ -112,6 +112,7 @@ Chandler: If you tried that on my birthday, you'd be staring at the business end
   - `business end of sth.`表示某事会遇到麻烦，而这个sth.**就是具体描述的麻烦**。这里的sth.是`a hissy fit`。
   - `hissy fit`是一个用来表示`angry`的短语，但是不能随便用，**一般是女生用这种表达方式**。男生直接就是`get angry`就好了
   - 这个`hissy fit`从Chandler的嘴里说出来，**其实也进一步体现了前面大家都觉得Chandler有gay的quality**。我感觉这种quality换成咱们常用的表达形式就是`有的时候说的话或者做的事有点娘`。
+-  Joey在这里还说了一句`What are the odds?`表示`这他妈也太巧了吧？`也可以用`What a chances！`来表示同样的意思。
 
 ---
 
