@@ -34,7 +34,7 @@ Ross: She barely knows me. We just live in the same building.
 
 ---
 ![](../source/image/season1/episode14/17.09.jpg)
-![](../source/image/season1/episode14/17.09.jpg)
+![](../source/image/season1/episode14/17.11.jpg)
 
 ```en
 Ross: Come on, I think it's insane!
